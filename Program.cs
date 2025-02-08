@@ -299,12 +299,15 @@ void TicTacTow()
                     Console.Clear();
                     switch (key)
                     {
+                        case ConsoleKey.D1:
                         case ConsoleKey.NumPad1:
                             Bot(1);
                             break;
+                        case ConsoleKey.D2:
                         case ConsoleKey.NumPad2:
                              Bot(2);
                             break;
+                        case ConsoleKey.D3:
                         case ConsoleKey.NumPad3:
                             Bot(3);
                             break;
