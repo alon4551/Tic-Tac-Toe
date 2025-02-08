@@ -1,0 +1,14 @@
+C:\Users\alon4\source\repos\TicTacTow\TicTacTow\bin\Debug\net8.0\TicTacTow.exe
+C:\Users\alon4\source\repos\TicTacTow\TicTacTow\bin\Debug\net8.0\TicTacTow.deps.json
+C:\Users\alon4\source\repos\TicTacTow\TicTacTow\bin\Debug\net8.0\TicTacTow.runtimeconfig.json
+C:\Users\alon4\source\repos\TicTacTow\TicTacTow\bin\Debug\net8.0\TicTacTow.dll
+C:\Users\alon4\source\repos\TicTacTow\TicTacTow\bin\Debug\net8.0\TicTacTow.pdb
+C:\Users\alon4\source\repos\TicTacTow\TicTacTow\obj\Debug\net8.0\TicTacTow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alon4\source\repos\TicTacTow\TicTacTow\obj\Debug\net8.0\TicTacTow.AssemblyInfoInputs.cache
+C:\Users\alon4\source\repos\TicTacTow\TicTacTow\obj\Debug\net8.0\TicTacTow.AssemblyInfo.cs
+C:\Users\alon4\source\repos\TicTacTow\TicTacTow\obj\Debug\net8.0\TicTacTow.csproj.CoreCompileInputs.cache
+C:\Users\alon4\source\repos\TicTacTow\TicTacTow\obj\Debug\net8.0\TicTacTow.dll
+C:\Users\alon4\source\repos\TicTacTow\TicTacTow\obj\Debug\net8.0\refint\TicTacTow.dll
+C:\Users\alon4\source\repos\TicTacTow\TicTacTow\obj\Debug\net8.0\TicTacTow.pdb
+C:\Users\alon4\source\repos\TicTacTow\TicTacTow\obj\Debug\net8.0\TicTacTow.genruntimeconfig.cache
+C:\Users\alon4\source\repos\TicTacTow\TicTacTow\obj\Debug\net8.0\ref\TicTacTow.dll
